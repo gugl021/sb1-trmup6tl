@@ -32,6 +32,9 @@ function App() {
           <p>
             Here's a new version!! Please work!!
           </p>
+          <p>
+            Trying out after manual unregister
+          </p>
           <Button onClick={() => alert('Button clicked!')}>
             Try Me!
           </Button>
