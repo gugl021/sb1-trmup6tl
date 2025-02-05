@@ -24,6 +24,7 @@ function App() {
         <div className="bg-white rounded-lg shadow-md p-6">
           <h2 className="text-xl font-semibold mb-4">Welcome to React PWA with Turborepo</h2>
           <p className="text-gray-600 mb-6">
+            Lets test redeployment!
             This is a Progressive Web App built with React, Vite, and Turborepo.
             It features offline support and can be installed on your device.
           </p>
