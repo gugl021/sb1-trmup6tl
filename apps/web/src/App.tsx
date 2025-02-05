@@ -30,7 +30,7 @@ function App() {
             It features offline support and can be installed on your device.
           </p>
           <p>
-            Trying with different url!
+            Trying with new version.json file!
           </p>
           <Button onClick={() => alert('Button clicked!')}>
             Try Me!
