@@ -31,6 +31,7 @@ function App() {
           </p>
           <p>
             Silly goose!
+            Come on!
           </p>
           <Button onClick={() => alert('Button clicked!')}>
             Try Me!
