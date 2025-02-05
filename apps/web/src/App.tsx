@@ -29,6 +29,9 @@ function App() {
             This is a Progressive Web App built with React, Vite, and Turborepo.
             It features offline support and can be installed on your device.
           </p>
+          <p>
+            Here's a new version!
+          </p>
           <Button onClick={() => alert('Button clicked!')}>
             Try Me!
           </Button>
