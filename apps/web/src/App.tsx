@@ -30,7 +30,7 @@ function App() {
             It features offline support and can be installed on your device.
           </p>
           <p>
-            Update on reload
+            Silly goose!
           </p>
           <Button onClick={() => alert('Button clicked!')}>
             Try Me!
