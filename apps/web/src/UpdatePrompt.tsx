@@ -25,13 +25,13 @@ export function UpdatePrompt() {
         <div>
           <p>A new version is available. Refresh to update?</p>
           <button onClick={() => updateServiceWorker(true)}>Refresh</button>
-          <button onClick={close}>Close</button>
+          <button onClick={close}>Close!</button>
         </div>
       )}
       {offlineReady && (
         <div>
           <p>App is ready to work offline.</p>
-          <button onClick={close}>Close</button>
+          <button onClick={close}>Close!</button>
         </div>
       )}
     </div>
