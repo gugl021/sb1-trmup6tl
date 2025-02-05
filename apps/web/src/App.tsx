@@ -1,5 +1,6 @@
 import { Button } from 'ui';
 import { Github } from 'lucide-react';
+import { UpdatePrompt } from './UpdatePrompt';
 
 function App() {
   return (
@@ -33,6 +34,7 @@ function App() {
           </Button>
         </div>
       </main>
+      <UpdatePrompt />
     </div>
   );
 }
